@@ -6,8 +6,7 @@ import {About,Resume, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanva
 function App() {
 
   return (
-    <BrowserRouter
-    basename={import.meta.env.DEV ? '/' : '/RS_3D_Porfolio/'}>
+    <BrowserRouter>
       <div className="relative z-0 bg-primary">
             <div className="bg-hero-pattern bgg-cover bg-no-repeat bg-center">
               <Navbar />
