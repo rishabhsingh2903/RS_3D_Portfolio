@@ -134,7 +134,7 @@ import {
       date: "May 2022 - Aug 2022",
       points: [
         "Developed: Architected and executed highly effective targeted advertising campaigns, elevating the company’s brand recognition by an impressive 11% in the fiercely competitive Indian Subcontinent market.",
-        "Built: Efficient data extraction and processing pipelines using Beautiful Soup4 and pandas, leading to a 25% reduction in data processing time and facilitating more accurate and timely decision-making.",
+        "Built: Efficient data extraction and processing pipelines using Selenium and pandas, leading to a 25% reduction in data processing time and facilitating more accurate and timely decision-making.",
         "Deployed: Tableau for data visualization, creating visually compelling reports and interactive dashboards that allowed clients to gain valuable insights, resulting in a 40% increase in client engagement and retention."
       ],
     },
