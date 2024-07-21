@@ -20,6 +20,7 @@ import {
     CabAnalysis,
     PennyCart,
     threejs,
+    Jobstack,
 
   } from "../assets";
   
@@ -44,7 +45,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Web Developer",
       icon: web,
     },
     {
@@ -56,7 +57,7 @@ import {
       icon: backend,
     },
     {
-      title: "Data Analyst",
+      title: "Data Scientist",
       icon: creator,
     },
   ];
@@ -169,6 +170,27 @@ import {
   ];
   
   const projects = [
+    {
+      name: "JobStack",
+      description:
+        "Produced a user-friendly application to track job applications, integrating authentication and authorization using JSON Web Tokens (JWT) for secure user management.",
+      tags: [
+        {
+          name: "Node.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Jobstack,
+      source_code_link: "https://rishabhsingh2903.github.io/JobStack_Frontend/",
+    },
     {
       name: "PennyCart",
       description:

@@ -8,7 +8,7 @@ const Resume = () => {
         <div className='absolute inset-0 flex justify-center items-center'>
           <div className='bg-tertiary p-5 w-[90px] h-[90px] rounded-[20px] flex justify-evenly items-center flex-col'>
             <a
-              href='https://drive.google.com/file/d/1sQN39tHCaAsQDMzybs4aDvd_pj4R7IJG/view?usp=sharing'
+              href='https://drive.google.com/file/d/1qjbz-0-ZviiAlAkiyhkmYnVrVtsNTWQ6/view?usp=sharing'
               target='_blank'
               rel='noopener noreferrer'
               className='text-secondary hover:text-white text-[18px] font-medium cursor-pointer'
