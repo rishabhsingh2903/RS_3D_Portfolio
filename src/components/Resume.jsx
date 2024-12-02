@@ -1,17 +1,17 @@
-import React from 'react';
-import { Tilt } from 'react-tilt';
+import React from "react";
+import { Tilt } from "react-tilt";
 
 const Resume = () => {
   return (
     <div className="cursor-pointer">
-      <Tilt className='h-[100px] w-[100px] green-pink-gradient shadow-card rounded-[20px] relative overflow-hidden'>
-        <div className='absolute inset-0 flex justify-center items-center'>
-          <div className='bg-tertiary p-5 w-[90px] h-[90px] rounded-[20px] flex justify-evenly items-center flex-col'>
+      <Tilt className="h-[100px] w-[100px] green-pink-gradient shadow-card rounded-[20px] relative overflow-hidden">
+        <div className="absolute inset-0 flex justify-center items-center">
+          <div className="bg-tertiary p-5 w-[90px] h-[90px] rounded-[20px] flex justify-evenly items-center flex-col">
             <a
-              href='https://drive.google.com/file/d/1qjbz-0-ZviiAlAkiyhkmYnVrVtsNTWQ6/view?usp=sharing'
-              target='_blank'
-              rel='noopener noreferrer'
-              className='text-secondary hover:text-white text-[18px] font-medium cursor-pointer'
+              href="https://drive.google.com/file/d/13oIjKfUOqJMPTMfDy5iyF-L-7-IJ9Zxa/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
             >
               Resume
             </a>
